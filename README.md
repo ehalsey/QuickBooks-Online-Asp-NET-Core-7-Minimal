@@ -11,10 +11,12 @@ QuickBooks App & Keys
 1. Clone the repository
 2. Open the solution in Visual Studio 2019 or later
 3. Create project secrets for the following
-```   "QuickBooksOnline": {
-```    "clientid": "[from your QuickBooks App]",
-```    "clientsecret": "[from your QuickBooks App]"
-```  }
+```   
+"QuickBooksOnline": {
+	"clientid": "[from your QuickBooks App]",
+	"clientsecret": "[from your QuickBooks App]"
+}
+```
 
 ## Of Note
 This is not production ready but serves as an example of how you can create a QBO customer in ASP.Net Core 7
