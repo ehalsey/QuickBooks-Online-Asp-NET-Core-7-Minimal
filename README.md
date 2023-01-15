@@ -1,4 +1,4 @@
-# QuickBooksOnlineAspNetCore7Minimal
+# QuickBooks Online Asp NET Core 7 Minimal
 Minimal ASP.NET Core 7.0 application using QuickBooks Online API v3 and OpenID Connect
 
 This is a minimal ASP.NET Core 7.0 application using QuickBooks Online API.
