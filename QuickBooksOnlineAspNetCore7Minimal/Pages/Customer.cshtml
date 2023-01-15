@@ -1,0 +1,18 @@
+﻿@page
+@model QuickBooksOnlineAspNetCore7Minimal.Pages.CustomerModel
+@{
+}
+@if (User.Identity!.IsAuthenticated)
+{
+    <h1>Welcome @User.Identity?.Name</h1>
+    @if (@Model.CompanyId != null)
+    {
+        <h2>Company</h2>
+        <div>@Model.CompanyId</div>
+    }
+
+    <form method="post">
+        <input type="submit" value="Create Customer" />
+    </form>
+}
+<div>@Model.CreateCustomerResponse</div>

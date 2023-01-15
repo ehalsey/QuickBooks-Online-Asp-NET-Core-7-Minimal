@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickBooksOnlineAspNetCore7Minimal", "QuickBooksOnlineAspNetCore7Minimal\QuickBooksOnlineAspNetCore7Minimal.csproj", "{0E8C4952-32DA-4562-8E51-7F90E9D5746F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E8C4952-32DA-4562-8E51-7F90E9D5746F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8C4952-32DA-4562-8E51-7F90E9D5746F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8C4952-32DA-4562-8E51-7F90E9D5746F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8C4952-32DA-4562-8E51-7F90E9D5746F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2A41763-1C31-4A37-8A24-C52BCB726628}
+	EndGlobalSection
+EndGlobal
